@@ -1,0 +1,13 @@
+.chart-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f9f9f9;
+  margin: 0;
+}
+
+.stock-chart-container {
+  width: 100%;
+  max-width: 800px;
+}
